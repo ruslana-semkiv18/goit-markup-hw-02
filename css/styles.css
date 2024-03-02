@@ -52,6 +52,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
 .header-menu-link:hover,
@@ -123,6 +124,7 @@ button {
 }
 
 .team-list {
+  background-color: #ffffff;
 }
 
 .team-item {
